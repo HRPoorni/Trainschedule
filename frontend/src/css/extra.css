@@ -1,0 +1,19 @@
+.extra-container{
+    width: 100vw;
+    height: 100vh;
+     display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    font-size: 60px;
+    color: #14AFD2;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.extra-container span{
+     
+    font-size: 20px;
+    color: #14AFD2;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}

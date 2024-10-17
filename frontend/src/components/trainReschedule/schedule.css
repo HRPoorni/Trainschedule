@@ -1,0 +1,29 @@
+.reschedule-container {
+  width: 100vw;
+  height: 100vh;
+  padding: 50px 55px;
+  display: flex;
+  flex-direction: column;
+}
+.reschedule-time-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.reschedule-topic-wrapper {
+  width: 100%;
+  height: 27px;
+  /* background-color: aqua; */
+  border-bottom: 2px solid #b1b1b1;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 19px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #14afd2;
+  overflow: auto;
+}
+.reschedule-time-table-wrapper {
+  width: 100%;
+  margin-top: 15px;
+}
